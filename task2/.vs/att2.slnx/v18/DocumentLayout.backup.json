@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\att2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|solutionrelative:att2\\att2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Robot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|solutionrelative:att2\\Robot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\CarefulRobot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|solutionrelative:att2\\CarefulRobot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\CarefulRobot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|solutionrelative:att2\\CarefulRobot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\FastRobot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|solutionrelative:att2\\FastRobot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\FastRobot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|solutionrelative:att2\\FastRobot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Robot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|solutionrelative:att2\\Robot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Hotel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|solutionrelative:att2\\Hotel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Hotel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|solutionrelative:att2\\Hotel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|solutionrelative:att2\\Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|solutionrelative:att2\\Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\RejectedGuest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|solutionrelative:att2\\RejectedGuest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\RejectedGuest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|solutionrelative:att2\\RejectedGuest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Guest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|solutionrelative:att2\\Guest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Guest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76302463-458C-4988-AB33-7177289D0E38}|att2\\att2.vcxproj|solutionrelative:att2\\Guest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarefulRobot.cpp",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\CarefulRobot.cpp",
+              "RelativeDocumentMoniker": "att2\\CarefulRobot.cpp",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\CarefulRobot.cpp",
+              "RelativeToolTip": "att2\\CarefulRobot.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-17T20:18:50.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarefulRobot.h",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\CarefulRobot.h",
+              "RelativeDocumentMoniker": "att2\\CarefulRobot.h",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\CarefulRobot.h",
+              "RelativeToolTip": "att2\\CarefulRobot.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-17T20:17:26.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FastRobot.cpp",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\FastRobot.cpp",
+              "RelativeDocumentMoniker": "att2\\FastRobot.cpp",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\FastRobot.cpp",
+              "RelativeToolTip": "att2\\FastRobot.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-17T20:17:01.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FastRobot.h",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\FastRobot.h",
+              "RelativeDocumentMoniker": "att2\\FastRobot.h",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\FastRobot.h",
+              "RelativeToolTip": "att2\\FastRobot.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-17T20:16:34.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Robot.cpp",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Robot.cpp",
+              "RelativeDocumentMoniker": "att2\\Robot.cpp",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Robot.cpp",
+              "RelativeToolTip": "att2\\Robot.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-17T20:16:08.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Robot.h",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Robot.h",
+              "RelativeDocumentMoniker": "att2\\Robot.h",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Robot.h",
+              "RelativeToolTip": "att2\\Robot.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-17T20:15:43.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "att2.cpp",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\att2.cpp",
+              "RelativeDocumentMoniker": "att2\\att2.cpp",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\att2.cpp*",
+              "RelativeToolTip": "att2\\att2.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-17T19:47:46.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hotel.cpp",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Hotel.cpp",
+              "RelativeDocumentMoniker": "att2\\Hotel.cpp",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Hotel.cpp",
+              "RelativeToolTip": "att2\\Hotel.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAswHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-17T20:15:13.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hotel.h",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Hotel.h",
+              "RelativeDocumentMoniker": "att2\\Hotel.h",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Hotel.h",
+              "RelativeToolTip": "att2\\Hotel.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-17T20:14:39.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Room.cpp",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Room.cpp",
+              "RelativeDocumentMoniker": "att2\\Room.cpp",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Room.cpp",
+              "RelativeToolTip": "att2\\Room.cpp",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAswGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-17T20:14:11.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Room.h",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Room.h",
+              "RelativeDocumentMoniker": "att2\\Room.h",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Room.h",
+              "RelativeToolTip": "att2\\Room.h",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswCkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-17T20:13:36.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RejectedGuest.cpp",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\RejectedGuest.cpp",
+              "RelativeDocumentMoniker": "att2\\RejectedGuest.cpp",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\RejectedGuest.cpp",
+              "RelativeToolTip": "att2\\RejectedGuest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-17T20:13:11.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RejectedGuest.h",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\RejectedGuest.h",
+              "RelativeDocumentMoniker": "att2\\RejectedGuest.h",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\RejectedGuest.h",
+              "RelativeToolTip": "att2\\RejectedGuest.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-17T20:12:36.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Guest.cpp",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Guest.cpp",
+              "RelativeDocumentMoniker": "att2\\Guest.cpp",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Guest.cpp",
+              "RelativeToolTip": "att2\\Guest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-17T20:10:31.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Guest.h",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Guest.h",
+              "RelativeDocumentMoniker": "att2\\Guest.h",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\C\u002B\u002B\\att2\\att2\\Guest.h",
+              "RelativeToolTip": "att2\\Guest.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-17T20:08:53.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

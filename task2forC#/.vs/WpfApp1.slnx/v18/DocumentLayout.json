@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shkod\\source\\repos\\it\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1162FACE-0733-4C7B-A15B-CB2DE58DBCF4}|WpfApp1\\WpfApp1.csproj|c:\\users\\shkod\\source\\repos\\it\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1162FACE-0733-4C7B-A15B-CB2DE58DBCF4}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1162FACE-0733-4C7B-A15B-CB2DE58DBCF4}|WpfApp1\\WpfApp1.csproj|c:\\users\\shkod\\source\\repos\\it\\wpfapp1\\wpfapp1\\models\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1162FACE-0733-4C7B-A15B-CB2DE58DBCF4}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1162FACE-0733-4C7B-A15B-CB2DE58DBCF4}|WpfApp1\\WpfApp1.csproj|c:\\users\\shkod\\source\\repos\\it\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1162FACE-0733-4C7B-A15B-CB2DE58DBCF4}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1162FACE-0733-4C7B-A15B-CB2DE58DBCF4}|WpfApp1\\WpfApp1.csproj|c:\\users\\shkod\\source\\repos\\it\\wpfapp1\\wpfapp1\\models\\ellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1162FACE-0733-4C7B-A15B-CB2DE58DBCF4}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\ellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1162FACE-0733-4C7B-A15B-CB2DE58DBCF4}|WpfApp1\\WpfApp1.csproj|c:\\users\\shkod\\source\\repos\\it\\wpfapp1\\wpfapp1\\models\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1162FACE-0733-4C7B-A15B-CB2DE58DBCF4}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1162FACE-0733-4C7B-A15B-CB2DE58DBCF4}|WpfApp1\\WpfApp1.csproj|c:\\users\\shkod\\source\\repos\\it\\wpfapp1\\wpfapp1\\models\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1162FACE-0733-4C7B-A15B-CB2DE58DBCF4}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1162FACE-0733-4C7B-A15B-CB2DE58DBCF4}|WpfApp1\\WpfApp1.csproj|c:\\users\\shkod\\source\\repos\\it\\wpfapp1\\wpfapp1\\models\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1162FACE-0733-4C7B-A15B-CB2DE58DBCF4}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1162FACE-0733-4C7B-A15B-CB2DE58DBCF4}|WpfApp1\\WpfApp1.csproj|c:\\users\\shkod\\source\\repos\\it\\wpfapp1\\wpfapp1\\models\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1162FACE-0733-4C7B-A15B-CB2DE58DBCF4}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Polygon.cs",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\it\\WpfApp1\\WpfApp1\\Models\\Polygon.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\Polygon.cs",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\it\\WpfApp1\\WpfApp1\\Models\\Polygon.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\Polygon.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:31:57.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ellipse.cs",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\it\\WpfApp1\\WpfApp1\\Models\\Ellipse.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\Ellipse.cs",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\it\\WpfApp1\\WpfApp1\\Models\\Ellipse.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\Ellipse.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:31:35.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\it\\WpfApp1\\WpfApp1\\Models\\Line.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\Line.cs",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\it\\WpfApp1\\WpfApp1\\Models\\Line.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\Line.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:31:16.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\it\\WpfApp1\\WpfApp1\\Models\\Point.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\Point.cs",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\it\\WpfApp1\\WpfApp1\\Models\\Point.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:30:38.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\it\\WpfApp1\\WpfApp1\\Models\\Figure.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\Figure.cs",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\it\\WpfApp1\\WpfApp1\\Models\\Figure.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\Figure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:30:02.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\it\\WpfApp1\\WpfApp1\\Models\\Box.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\Box.cs",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\it\\WpfApp1\\WpfApp1\\Models\\Box.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:29:23.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\it\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\it\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-18T16:59:52.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shkod\\source\\repos\\it\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\shkod\\source\\repos\\it\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:59:51.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
